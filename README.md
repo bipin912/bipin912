@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nigale Resort**
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **UI/UX**
 
 - 💬 Ask me about **Engineering**
 
