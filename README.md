@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bipin Poudel</h1>
 <h3 align="center">A passionate Flutter & Firebase developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Nepal Agricultural Cooperative Central Federation**
+- 🔭 I’m currently working on **Inventory Management**
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **System Design and Architecture**
 
 - 💬 Ask me about **Engineering**
 
